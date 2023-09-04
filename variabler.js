@@ -2,7 +2,7 @@ console.log("Hello World")
 
 let firstName // definiera
 firstName = "Fabian" // tilldelar ett värde
-let lastName = "Sigfridsson" // definiera och tilldelar ett värde
+let lastName = "Sigfridsson" // definiera och tilldelar ett värde - Deklarerar
 
 let num = 200.3 + true + "3"
 num = [2] + 2
